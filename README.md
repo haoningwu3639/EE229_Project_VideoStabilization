@@ -34,7 +34,7 @@ Code tested on following environments, other version should also work:
 # Results 
  Contact us for more video results.
 
-# Referneces
+# References
  If you gonna learn more about Video Stabilization, we recommend this repository for you: [awesome-video-stabilization](https://github.com/yaochih/awesome-video-stabilization)
 
 # Miscs
